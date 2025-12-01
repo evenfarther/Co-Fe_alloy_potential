@@ -10,5 +10,7 @@ EDIFF : 10^-5
 Number of DFT frames: 1850
 
 MAE for validation set
-Energy atom : 0.015 eV/atom
+
+Energy : 0.015 eV/atom
+
 Force : 0.115 eV/Å
