@@ -15,6 +15,7 @@ Energy : 0.015 eV/atom
 
 Force : 0.115 eV/Å
 
+
 POTCAR_version
 Co : PAW_PBE Co 02Aug2007
 Fe : PAW_PBE Fe 06Sep2000
